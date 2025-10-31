@@ -1,5 +1,5 @@
 /* 
- * RELACIÓN DE EJERCICIOS 4: EJERCICIO 1
+ * RELACIÓN DE EJERCICIOS 4: EJERCICIO 2
  * Programa escrito para añadir métodos a una clase Restaurante
  * Autor: Antonio Benítez Rodríguez
  * Fecha: 30/10/2025
