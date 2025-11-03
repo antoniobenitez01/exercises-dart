@@ -7,19 +7,27 @@
  */
 
 void main(){
+
   // Imprimimos todos los valores de una URL
   print("\n--- Imprimiendo valores individuales de un objeto URI ---\n");
   var uri1 = Uri.parse('https://www.example.com:8080/path/to/resource?query=flutter#section1');
   printHTTPS(uri1);
 
+  // CREANDO OBJETOS URI
   print("\n--- Creando objetos URI a partir de elementos individuales ---");
+
+  //  --- HTTP/HTTPS
   print("\n- URI de HTTP/HTTPS -");
   var uri2 = Uri.https("www.example.com","/path/to/resource",{"query":"flutter"});
   printHTTPS(uri2);
+
+  //  --- Archivo
   print("\n- URI de Archivo -");
   var uri3 = Uri.file("C:/Users/dam2/Desktop/Programación Multimedia/Ejercicios_Dart/relacion1/ejercicio1.dart");
   printPath(uri3);
-    print("\n- URI de Teléfono -");
+  
+  //  --- Teléfono
+  print("\n- URI de Teléfono -");
   var uri4 = Uri.parse('tel:+1234567890');
   printPath(uri4);
 }

@@ -16,22 +16,22 @@ void main()
   String? operador = stdin.readLineSync();
   switch(operador)
   {
-    case "+":
+    case "+":       // SUMA
       print("Resultado suma de números = ${num1 + num2}");
       break;
-    case "-":
+    case "-":       // RESTA
       print("Resultado resta de números = ${num1 - num2}");
       break;
-    case "*":
+    case "*":       // MULTIPLICACIÓN
       print("Resultado multiplicación de números = ${num1 * num2}");
       break;
-    case "~/":
+    case "~/":      // DIVISIÓN ENTERA
       print("Resultado división entera de números = ${num1 ~/ num2}");
       break;
-    case "%":
+    case "%":       // RESTO DE DIVISIÓN
       print("Resto de división entera de números = ${num1 % num2}");
       break;
-    default:
+    default:        // default
       print("El operador introducido no es válido.");
       break;
   }

@@ -25,7 +25,7 @@ int resto(int num1, int num2){
 void main(){
   List resultado;
   print("Utilizando función 'cocienteResto' con parámetros 50 y 5 ...");
-  resultado = cocienteResto(20,5);
+  resultado = cocienteResto(50,5);
   print("Resultado = Cociente: " + resultado[0].toString() + " - Resto: " + resultado[1].toString());
 
   print("Utilizando función 'cocienteResto' con parámetros 250 y 13 ...");

@@ -7,18 +7,17 @@
  */
 
 import "dart:io";
-
 import "./common.dart";
 
 void main(){
-  List<String> colores = ["rojo","verde","azul"];
+  List<String> colores = ["rojo","verde","azul"]; // Declaración e inicialización inicial de List de Colores (String)
   String colorTeclado = "";
   int opcion = 0;
   while(opcion != 5){
     opcion = menu("\n=== MENÚ DE OPERACIONES LIST ==="+
     "\n1. Incluir color\n2. Eliminar color\n3. Buscar color\n4. Mostrar lista de colores\n5. Salir del programa",1,5);
     switch(opcion){
-      case 1:
+      case 1: // --------------------------------------------------------------------- INCLUIR COLOR
         print("Introduzca el color a añadir.");
         colorTeclado = stdin.readLineSync()!.toLowerCase();
         if(colores.contains(colorTeclado)){
@@ -28,7 +27,7 @@ void main(){
           print("LISTA DE COLORES = $colores");
         }
         break;
-      case 2:
+      case 2: // --------------------------------------------------------------------- ELIMINAR COLOR
         if(colores.isEmpty){
           print("La lista de colores está vacía.");
         }else{
@@ -43,7 +42,7 @@ void main(){
           }
         }
         break;
-      case 3:
+      case 3: // --------------------------------------------------------------------- BUSCAR COLOR
         if(colores.isEmpty){
           print("La lista de colores está vacía.");
         }else{
@@ -56,14 +55,14 @@ void main(){
           }
         }
         break;
-      case 4:
+      case 4: // --------------------------------------------------------------------- MOSTRAR LISTA DE COLOREs
         if(colores.isEmpty){
           print("La lista de colores está vacía.");
         }else{
           print("LISTA DE COLORES = $colores");
         }
         break;
-      case 5:
+      case 5: // --------------------------------------------------------------------- APAGAR PROGRAMA
         print("Apagando programa ...");
         break;
     }

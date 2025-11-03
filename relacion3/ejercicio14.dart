@@ -10,15 +10,18 @@ import "./common.dart";
 import "dart:io";
 
 void main(){
+  // ================================================================================= VARIABLEs
+  // Declaración e Inicialización inicial de Map de Personas (String,String)
   Map<String,String> personas = {"Pepe":"111111111","María":"222222222","Ana":"3333333"};
   int opcion = 0;
   String personaTeclado;
   String numeroTeclado;
+  // ================================================================================= PROGRAMA
   while(opcion != 5){
     opcion = menu("\n=== MENÚ DE OPERACIONES MAP ==="+
     "\n1. Incluir persona\n2. Eliminar persona\n3. Buscar persona\n4. Mostrar lista de personas\n5. Salir del programa",1,5);
     switch(opcion){
-      case 1:
+      case 1: // --------------------------------------------------------------------- INCLUIR PERSONA
         print("Introduzca el nombre de la persona a añadir.");
         personaTeclado = stdin.readLineSync()!;
         if(personas.containsKey(personaTeclado)){
@@ -29,7 +32,7 @@ void main(){
           personas[personaTeclado] = numeroTeclado;
         }
         break;
-      case 2:
+      case 2: // --------------------------------------------------------------------- ELIMINAR PERSONA
         if(personas.isEmpty){
           print("La lista de personas está vacía.");
         }else{
@@ -46,7 +49,7 @@ void main(){
           }
         }
         break;
-      case 3:
+      case 3: // --------------------------------------------------------------------- BUSCAR PERSONA
         print("Introduzca el nombre de la persona a buscar.");
         personaTeclado = stdin.readLineSync()!;
         if(personas.containsKey(personaTeclado)){
@@ -59,7 +62,7 @@ void main(){
           print("La persona introducida no está registrada.");
         }
         break;
-      case 4:
+      case 4: // --------------------------------------------------------------------- MOSTRAR LISTA DE PERSONAS
         if(personas.isEmpty){
           print("La lista de personas está vacía.");
         }else{
@@ -69,7 +72,7 @@ void main(){
           });
         }
         break;
-      case 5:
+      case 5: // --------------------------------------------------------------------- APAGAR PROGRAMA
         print("Apagando programa ...");
         break;
     }

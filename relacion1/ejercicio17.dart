@@ -6,7 +6,7 @@
  */
 import "dart:io";
 
-enum rainbowColors {blue, green, yellow, orange, red, purple} //Enumerado - Colores del Arco iris
+enum rainbowColors {blue, green, yellow, orange, red, purple}     //Enumerado - Colores del Arco iris
 
 void main()
 {

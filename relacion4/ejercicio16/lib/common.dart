@@ -1,3 +1,9 @@
+/* 
+ * COMMON - Relación de Ejercicios 4
+ * Librería de métodos en común para la relación de ejercicios 4
+ * Autor: Antonio Benítez Rodríguez
+ * Fecha: 31/10/2025
+ */
 bool listEquals<T>(List<T>? a, List<T>? b) {
  if (a == null) {
    return b == null;
