@@ -10,7 +10,7 @@ ______________________________________________________________________________<b
     <td>
       <table> <!-- RELACIÓN 1                                                         -->
         <tr> <th colspan="3"> Relación 1 - Ejercicios Iniciales </th> </tr>
-        <tr> <th>Nº</th> <th>Descripción</th> <th>Estado</th> </tr>
+        <tr> <th>Nº</th> <th>Descripción</th> <th>Hecho</th> </tr>
         <tr> <td>1</td> <td>Declaración de Tipos y Print</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>2</td> <td>Experimentación Tipos Built-In</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>3</td> <td>Declaración de Constantes</td> <td>:white_check_mark:</td> </tr>
@@ -36,7 +36,7 @@ ______________________________________________________________________________<b
     <td>
       <table> <!-- RELACIÓN 2                                                        -->
         <tr> <th colspan="3"> Relación 2 - Funciones </th> </tr>
-        <tr> <th>Nº</th> <th>Descripción</th> <th>Estado</th> </tr>
+        <tr> <th>Nº</th> <th>Descripción</th> <th>Hecho</th> </tr>
         <tr> <td>1</td> <td>Función Mostrar Fecha y Hora</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>2</td> <td>Función Mostrar Fecha y Hora 2</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>3</td> <td>Función Mostar Nombre e ID</td> <td>:white_check_mark:</td> </tr>
@@ -64,7 +64,7 @@ ______________________________________________________________________________<b
     <td>
       <table> <!-- RELACIÓN 3                                                        -->
         <tr> <th colspan="3"> Relación 3 - Funciones 2 </th> </tr>
-        <tr> <th>Nº</th> <th>Descripción</th> <th>Estado</th> </tr>
+        <tr> <th>Nº</th> <th>Descripción</th> <th>Hecho</th> </tr>
         <tr> <td>1</td> <td>Validación de Entrada</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>2</td> <td>Adivinar Número entre 1 y 100</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>3</td> <td>Frase en Mayúsculas y Minúsculas</td> <td>:white_check_mark:</td> </tr>
@@ -90,17 +90,17 @@ ______________________________________________________________________________<b
     <td>
       <table> <!-- RELACIÓN 4                                                        -->
         <tr> <th colspan="3"> Relación 4 - Clases </th> </tr>
-        <tr> <th>Nº</th> <th>Descripción</th> <th>Estado</th> </tr>
+        <tr> <th>Nº</th> <th>Descripción</th> <th>Hecho</th> </tr>
         <tr> <td>1</td> <td>Creación Clase Persona</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>2</td> <td>Creación Métodos Clase Restaurante</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>3</td> <td>Creación Clase BanderaFranjas</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>4</td> <td>Creación Clase Punto</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>5</td> <td>Creación Clase Vector</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>2</td> <td>Clase Restaurante</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>3</td> <td>Clase BanderaFranjas</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>4</td> <td>Clase Punto</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>5</td> <td>Clase Vector</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>6</td> <td>Refactorizar Código Gemini</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>7</td> <td>Creación Clase Triángulo</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>8</td> <td>Creación Clase CuentaBancaria</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>9</td> <td>Creación Clase CuentaDebito y CuentaCredito</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>10</td> <td>Refactorización Clase CuentaDebito y CuentaCredito</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>7</td> <td>Clase Triángulo</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>8</td> <td>CuentaBancaria</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>9</td> <td>CuentaDebito y CuentaCredito</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>10</td> <td>CuentaDebito y CuentaCredito 2</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>11</td> <td>Creación Clase Fracción</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>12</td> <td>Revisión Clase Fracción</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>13</td> <td>Mixin Comparable</td> <td>:white_check_mark:</td> </tr>
