@@ -19,8 +19,8 @@ ______________________________________________________________________________<b
         <tr> <td>6</td> <td>Calculadora por Operador</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>7</td> <td>Ecuaciones de Segundo Grado</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>8</td> <td>Tabla de Multiplicar</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>9</td> <td>Primeras 10 Tablas de Multiplicar</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>10</td> <td>Suma de Primeros Números Naturales</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>9</td> <td>10 Tablas de Multiplicar</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>10</td> <td>Suma Números Naturales</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>11</td> <td>Calcular Factorial</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>12</td> <td>Calcular Mínimo Común Divisor</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>13</td> <td>Algoritmo de Euclides</td> <td>:white_check_mark:</td> </tr>
@@ -30,7 +30,7 @@ ______________________________________________________________________________<b
         <tr> <td>17</td> <td>Enumerado Colores del Arcoiris</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>18</td> <td>Enumeardo Colores del Acoiris 2</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>19</td> <td>Map Nombre y Edades</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>20</td> <td>Map Estadísticas del Tiempo</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>20</td> <td>Estadísticas del Tiempo</td> <td>:white_check_mark:</td> </tr>
       </table>
     </td>
     <td>
@@ -42,7 +42,7 @@ ______________________________________________________________________________<b
         <tr> <td>3</td> <td>Función Mostar Nombre e ID</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>4</td> <td>Mostrar Nombre y Apellidos</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>5</td> <td>Función Mover Fecha y Hora</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>6</td> <td>Calcular Suma Primeros Números Naturales</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>6</td> <td>Calcular Suma Números Naturales</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>7</td> <td>Calcular Factorial</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>8</td> <td>Calcular Mínimo Común Divisor</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>9</td> <td>Calcular Cociente y Resto</td> <td>:white_check_mark:</td> </tr>
@@ -50,11 +50,11 @@ ______________________________________________________________________________<b
         <tr> <td>11</td> <td>Temperatura Máxima y Mínima</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>12</td> <td>Temperatura Máxima y Mínima 2</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>13</td> <td>Calcular Número Primo</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>14</td> <td>Calcular Suma Primeros Números Naturales (Recursive)</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>14</td> <td>Suma Números Naturales (Recursive)</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>15</td> <td>Calcular Factorial (Recursive)</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>16</td> <td>Calcular Mínimo Común Divisor (Recursive)</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>17</td> <td>Calcular Cociente y Resto (Recursive)</td> <td>:white_check_mark:</td> </tr>
-        <tr> <td>18</td> <td>Calcular Números Fibonacci</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>16</td> <td>Mínimo Común Divisor (Recursive)</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>17</td> <td>Cociente y Resto (Recursive)</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>18</td> <td>Números Fibonacci</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>19</td> <td>Lista Números Primos</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>20</td> <td>Librería de Funciones</td> <td>:white_check_mark:</td> </tr>
       </table>
