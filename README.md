@@ -10,7 +10,7 @@ ______________________________________________________________________________<b
     <td>
       <table> <!-- RELACIÓN 1                                                         -->
         <tr> <th colspan="3"> Relación 1 - Ejercicios Iniciales </th> </tr>
-        <tr> <th>Nº</th> <th>Descripción</th> <th>Hecho</th> </tr>
+        <tr> <th>Nº</th> <th>Descripción</th> <th></th> </tr>
         <tr> <td>1</td> <td>Declaración de Tipos y Print</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>2</td> <td>Experimentación Tipos Built-In</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>3</td> <td>Declaración de Constantes</td> <td>:white_check_mark:</td> </tr>
@@ -36,7 +36,7 @@ ______________________________________________________________________________<b
     <td>
       <table> <!-- RELACIÓN 2                                                        -->
         <tr> <th colspan="3"> Relación 2 - Funciones </th> </tr>
-        <tr> <th>Nº</th> <th>Descripción</th> <th>Hecho</th> </tr>
+        <tr> <th>Nº</th> <th>Descripción</th> <th></th> </tr>
         <tr> <td>1</td> <td>Función Mostrar Fecha y Hora</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>2</td> <td>Función Mostrar Fecha y Hora 2</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>3</td> <td>Función Mostar Nombre e ID</td> <td>:white_check_mark:</td> </tr>
@@ -64,7 +64,7 @@ ______________________________________________________________________________<b
     <td>
       <table> <!-- RELACIÓN 3                                                        -->
         <tr> <th colspan="3"> Relación 3 - Funciones 2 </th> </tr>
-        <tr> <th>Nº</th> <th>Descripción</th> <th>Hecho</th> </tr>
+        <tr> <th>Nº</th> <th>Descripción</th> <th></th> </tr>
         <tr> <td>1</td> <td>Validación de Entrada</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>2</td> <td>Adivinar Número entre 1 y 100</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>3</td> <td>Frase en Mayúsculas y Minúsculas</td> <td>:white_check_mark:</td> </tr>
@@ -90,7 +90,7 @@ ______________________________________________________________________________<b
     <td>
       <table> <!-- RELACIÓN 4                                                        -->
         <tr> <th colspan="3"> Relación 4 - Clases </th> </tr>
-        <tr> <th>Nº</th> <th>Descripción</th> <th>Hecho</th> </tr>
+        <tr> <th>Nº</th> <th>Descripción</th> <th></th> </tr>
         <tr> <td>1</td> <td>Creación Clase Persona</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>2</td> <td>Clase Restaurante</td> <td>:white_check_mark:</td> </tr>
         <tr> <td>3</td> <td>Clase BanderaFranjas</td> <td>:white_check_mark:</td> </tr>
