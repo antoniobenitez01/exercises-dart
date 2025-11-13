@@ -7,7 +7,7 @@ ______________________________________________________________________________<b
 <div align="center">
   <h2>Tabla de Relaciones</h2>
   <table>
-    <td>
+    <td valign="top">
       <table> <!-- RELACIÓN 1                                                         -->
         <tr> <th colspan="3"> Relación 1 - Ejercicios Iniciales </th> </tr>
         <tr> <th>Nº</th> <th>Descripción</th> <th></th> </tr>
@@ -33,7 +33,7 @@ ______________________________________________________________________________<b
         <tr> <td>20</td> <td>Estadísticas del Tiempo</td> <td>:white_check_mark:</td> </tr>
       </table>
     </td>
-    <td>
+    <td valign="top">
       <table> <!-- RELACIÓN 2                                                        -->
         <tr> <th colspan="3"> Relación 2 - Funciones </th> </tr>
         <tr> <th>Nº</th> <th>Descripción</th> <th></th> </tr>
@@ -61,7 +61,7 @@ ______________________________________________________________________________<b
     </td>
   </table>
   <table>
-    <td>
+    <td valign="top">
       <table> <!-- RELACIÓN 3                                                        -->
         <tr> <th colspan="3"> Relación 3 - Funciones 2 </th> </tr>
         <tr> <th>Nº</th> <th>Descripción</th> <th></th> </tr>
@@ -87,7 +87,7 @@ ______________________________________________________________________________<b
         <tr> <td>20</td> <td>Funciones Sin Nombre</td> <td>:white_check_mark:</td> </tr>
       </table>
     </td>
-    <td>
+    <td valign="top">
       <table> <!-- RELACIÓN 4                                                        -->
         <tr> <th colspan="3"> Relación 4 - Clases </th> </tr>
         <tr> <th>Nº</th> <th>Descripción</th> <th></th> </tr>
