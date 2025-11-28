@@ -1,11 +1,11 @@
-<div align="center"><img width="1721" height="572" alt="dart_logo" src="https://github.com/user-attachments/assets/444d80e0-2abc-437e-bc08-e9acc3451b82"/>
+<div align="center"><img width="1721" height="572" alt="dart_logo" src="https://github.com/user-attachments/assets/12c09750-e357-48b2-a423-88392c7c733a" />
 ______________________________________________________________________________<br><br>
-Repositorio de ejercicios realizados en el módulo de <b>Programación Multimedia y Dispositivos Móviles</b><br>
-perteneciente al <b>Grado Superior de Desarrollo de Aplicaciones Multiplataforma</b>.<br>
+Repository for Study Exercises done in <b>Dart</b> for <b>Higher Education Studies in App Development</b><br>
+This repository is full of exercises made to learn the basics of the language and its syntax
 ______________________________________________________________________________<br><br>
 </div>
 <div align="center">
-  <h2>Tabla de Relaciones</h2>
+  <h2>Table of Exercises</h2>
   <table>
     <td valign="top">
       <table> <!-- RELACIÓN 1                                                         -->
